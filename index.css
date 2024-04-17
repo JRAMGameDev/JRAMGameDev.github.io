@@ -1,0 +1,42 @@
+* 
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Lucida Console;
+	
+	
+}
+
+div
+{
+	text-align: center;
+	background-color: lightblue;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 25px;
+	color: black;
+	
+	
+}
+
+h1{text-align: center; color: white;}
+h2{text-align: center;}
+h3{text-align: center;}
+	p{text-align: center; color: white;}
+
+head
+{
+	background-color: blue;
+}
+
+body 
+{
+background-color: blue;
+background-repeat: no-repeat;
+}
+
+img
+{
+	border-style: groove;
+}
